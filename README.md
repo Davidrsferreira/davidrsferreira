@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A professional Software Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Docker, Kubernets and CI/CD**
-
 - 📫 How to reach me **davidrsferreira@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1plRS1QZr14WCvSOw1KvFwVjMtMEx66lU/view?usp=drive_link](https://drive.google.com/file/d/1plRS1QZr14WCvSOw1KvFwVjMtMEx66lU/view?usp=drive_link)
