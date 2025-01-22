@@ -11,9 +11,9 @@ Living and working abroad has enriched my perspective and shaped my adaptability
 I'm always striving to become a better developer—exploring new technologies, improving my craft, and building solutions that make a difference.
 
 <h3>⚙️ Tech Stack Highlights</h3>
-- - Back-End: Java (8, 11, 17), Spring Boot, REST APIs
-- - Front-End: Vue.js, Angular and React
-- - Other Skills: Relational Databases, Software Architecture, Version Control, Tests, CI/CD
+<p>- Back-End: Java (8, 11, 17), Spring Boot, REST APIs</p>
+<p>- Front-End: Vue.js, Angular and React</p>
+<p>- Other Skills: Relational Databases, Software Architecture, Version Control, Tests, CI/CD</p>
 
 <h3>📈 Goals</h3>
 Contribute to innovative open-source projects, deepen expertise in GraphQL APIs, and collaborate on impactful global initiatives.
