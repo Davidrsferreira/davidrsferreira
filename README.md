@@ -1,8 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">👨‍💻 A Senior Software Developer</h3>
 
+👨‍💻 Senior Software Developer
 Experienced in building scalable full-stack applications with Java, Spring Boot, Vue.js, and Angular. With a strong foundation in software engineering and a passion for continuous learning, I have contributed to impactful projects in health tech, retail, and logistics across Brazil, Portugal, and France.
+
+🌎 International Experience
+Living and working abroad has enriched my perspective and shaped my adaptability in solving complex problems within diverse teams.
+
+💡 What Drives Me
+I'm always striving to become a better developer—exploring new technologies, improving my craft, and building solutions that make a difference.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
