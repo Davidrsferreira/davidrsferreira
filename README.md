@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A professional Software Developer from Brazil</h3>
+<h3 align="center">👨‍💻 A Senior Software Developer</h3>
 
-- 📫 How to reach me **davidrsferreira@gmail.com**
-
-- 📄 Know about my experiences [here](https://davidrsferreira.github.io/developer-portfolio/)
+Experienced in building scalable full-stack applications with Java, Spring Boot, Vue.js, and Angular. With a strong foundation in software engineering and a passion for continuous learning, I have contributed to impactful projects in health tech, retail, and logistics across Brazil, Portugal, and France.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
